@@ -2,14 +2,14 @@
 >This website has been created for practise. On this website there are a lot of photo. Whole is like blog. 
 >You can see new photos and description of creator. 
 
-##Screenshot my website 
+## Screenshot my website 
 ![Obiektywnie Naturalne](./obiektywnie.png)
 
-##Technologies 
+## Technologies 
 * HTML5
 * CSS
 
-##Code Examples 
+## Code Examples 
  '
  	<div id="container">
  		<div id="title"> Obiektywnie Naturalne...</div>
@@ -32,7 +32,7 @@
  				Faceebok</a>
 			</div>'
 		
-##Status 
+## Status 
 I'm not going to longer continue this program because of this website has been created only for practise. 
 Now,  my next project "Football games" is in progress.
 		
