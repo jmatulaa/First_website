@@ -3,7 +3,7 @@
 >You can see new photos and description of creator. 
 
 ## Screenshot my website 
-![Obiektywnie Naturalne](./obiektywnie.png)
+![Obiektywnie Naturalne](/Users/juliamatula/Desktop/programowanie front end/obiektywnie.png)
 
 ## Technologies 
 * HTML5
